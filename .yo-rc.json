@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Initial Apps LLC",
+      "unitTestsEnabled": true,
+      "useAzureAppInsights": true
+    },
+    "libraryName": "unyielding",
+    "generator-version": "2.15.0"
+  }
+}
